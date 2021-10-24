@@ -1,8 +1,8 @@
 package com.corejava.practice.corejava.comparatorvscomparable;
 
-import org.omg.CORBA.OMGVMCID;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class LaptopRunner {
 
